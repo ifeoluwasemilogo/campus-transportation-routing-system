@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ibadan Campus Transport
 
 A campus transportation MVP with a React student/admin portal and a Django REST API. It supports role-based sign-in, scheduled shuttle trips, seat-limited reservations, cancellations, service notices, and fleet/route management.
@@ -85,3 +86,7 @@ npm run lint
 ```
 
 Seed commands are intended for local development. Before production use, configure a strong secret key, MySQL credentials, allowed hosts, CORS origins, HTTPS, account lifecycle/password reset, and deployment monitoring. Payment processing, push notifications, and live vehicle GPS are not configured in this MVP.
+=======
+# campus-transportation-routing-system
+csc 476 project group 70
+>>>>>>> 3460d075dac36fd1439cb90389055472902fc889
